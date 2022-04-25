@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "express, school of net, nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --inspect ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoborba/nodejs-express.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "rodrigo borba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoborba/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/rodrigoborba/nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
